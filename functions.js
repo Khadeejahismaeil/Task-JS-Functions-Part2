@@ -55,8 +55,7 @@ function squareOrDouble(n) {
   return n % 2 !== 0 ? n * n : n * 2;
 
   //  if (n % 2 === 0) return n * 2;
-  // else if (n % 2 !== 0) return true;
-  // n * n
+  // else if (n % 2 !== 0) return n * n;
 
   // Your code here
 }
