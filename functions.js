@@ -23,7 +23,7 @@ function greet(name) {
 function isOdd(n) {
   // Your code here
   if (n % 2 === 0) return false;
-  else if (n % 2 !== 0) return true;
+  else if (n % 2 == 1) return true;
 }
 
 /**
